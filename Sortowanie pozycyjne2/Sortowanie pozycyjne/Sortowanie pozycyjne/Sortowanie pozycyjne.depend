@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543977426 source:e:\algorytmy i struktury danych\sortowanie pozycyjne\sortowanie pozycyjne\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544617482 source:e:\algorytmy i struktury danych\sortowanie pozycyjne2\sortowanie pozycyjne\sortowanie pozycyjne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

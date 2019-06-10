@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543335341 source:e:\algorytmy i struktury danych\sortowanie przez kopcowanie z wejsciem z pliku\stworzenie pliku\sortowanie szybkie quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

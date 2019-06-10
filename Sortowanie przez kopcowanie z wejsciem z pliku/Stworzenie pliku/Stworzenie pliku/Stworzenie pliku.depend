@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541374827 source:e:\algorytmy i struktury danych\sortowanie przez kopcowanie z wejsciem z pliku\stworzenie pliku\stworzenie pliku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
