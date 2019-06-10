@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552322618 source:e:\algorytmy i struktury danych\drzewa czerwono czarne\drzewa czerwono czarne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

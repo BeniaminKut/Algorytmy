@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547641776 source:e:\algorytmy i struktury danych\funkcje haszujace\all 6.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
